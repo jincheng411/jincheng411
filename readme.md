@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jincheng411&label=Profile%20views&color=0e75b6&style=flat" alt="jincheng411" /> </p>
 
-- 🔭 I’m currently working on [project-clone](https://github.com/jincheng411/project-clone)
+- 🔭 I’m currently working on [Leet-Code](https://github.com/jincheng411/Leet-Code)
 
 - 💬 Ask me about **React, Node.js, Express, PostgresSQL, MongoDB, Redis**
 
