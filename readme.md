@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Leet-Code](https://github.com/jincheng411/Leet-Code)
 
-- 💬 Ask me about **React, Node.js, Express, PostgresSQL, MongoDB, Redis**
+- 💬 Ask me about **Java, SpringBoot, React, Node.js, PostgresSQL, MongoDB, Redis**
 
 - 📫 How to reach me **JinCheng411@gmail.com**
 
